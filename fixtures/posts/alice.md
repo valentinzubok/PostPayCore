@@ -1,0 +1,1 @@
+#ad Paid post. I tried PostPay this week. A sponsor locks the whole budget in escrow before anyone posts, and GenLayer validators check every post against the brief, so a creator who did what was asked gets paid without arguing with anyone. Repo: https://github.com/valentinzubok/PostPay - claim pp-f9d7d34c2a3e54b0

@@ -1,0 +1,1 @@
+#ad Paid partnership. PostPay pays creators per post: the budget is escrowed up front and validators decide if a post matches the brief. Source: https://github.com/valentinzubok/PostPay - claim pp-2e4b44ea4bfc4673
